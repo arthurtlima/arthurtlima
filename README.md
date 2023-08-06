@@ -40,7 +40,6 @@ I have been working as a Front-End developer since 2017, currently I'm working w
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=bitbucket)
 
 ## 🚀 Quick Stats
-<p align="center">
-  <img height="195" width="auto" src ="https://github-readme-stats.vercel.app/api?username=arthurtlima&show_icons=true&theme=dark">
+<p align="left">
   <img height="195" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtlima&layout=compact&theme=dark">
 </p>
