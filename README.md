@@ -32,6 +32,7 @@ I have been working as a Front-End developer since 2017, currently I'm working w
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest)
 ![TestingLibrary](https://img.shields.io/badge/testinglibrary-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-181717?style=flat-square&logo=docker)
